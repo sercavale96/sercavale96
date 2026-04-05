@@ -19,3 +19,14 @@
   <img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
+
+## 🚀 Experiencia destacada
+
+- 🚚 **DHL**
+  Desarrollo de procesos ETL, soluciones de Business Intelligence y procesamiento de grandes volúmenes de datos para análisis y toma de decisiones.
+
+- 🏥 **Colmédica Medicina Prepagada**
+  Desarrollo de soluciones de facturación y facturación electrónica, incluyendo generación de XML, validación y automatización de procesos financieros.
+
+- 🎓 **Investigación académica**
+  Diseño de un modelo clasificador para determinar niveles de complejidad quirúrgica en colecistectomía laparoscópica, en colaboración con la Universidad de Manizales y el Hospital de Caldas SES.
