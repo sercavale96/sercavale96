@@ -9,8 +9,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sercavale96&theme=dracula&locale=es)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sercavale96&show_icons=true&theme=tokyonight)
-
 ## 🛠️ Tecnologías
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
