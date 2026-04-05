@@ -19,4 +19,5 @@
   <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualbasic&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
