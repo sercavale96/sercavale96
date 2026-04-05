@@ -22,11 +22,16 @@
 
 ## 🚀 Experiencia destacada
 
-- 🚚 **DHL**
+- 🚚 **DHL:**
   Desarrollo de procesos ETL, soluciones de Business Intelligence y procesamiento de grandes volúmenes de datos para análisis y toma de decisiones.
 
-- 🏥 **Colmédica Medicina Prepagada**
-  Desarrollo de soluciones de facturación y facturación electrónica, incluyendo generación de XML, validación y automatización de procesos financieros.
+- 🏥 **Colmédica Medicina Prepagada:**
+  Desarrollo de soluciones de facturación y facturación electrónica, incluyendo generación de JSON/XML, validación y automatización de procesos financieros.
 
-- 🎓 **Investigación académica**
+- 🎓 **Investigación académica:**
   Diseño de un modelo clasificador para determinar niveles de complejidad quirúrgica en colecistectomía laparoscópica, en colaboración con la Universidad de Manizales y el Hospital de Caldas SES.
+
+  ## 📫 Contacto
+
+- 💼 LinkedIn: https://linkedin.com/in/sergio-alejandro-cañón-valencia-2608ab159
+- 📧 Email: sercavale@hotmail.com
